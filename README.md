@@ -22,9 +22,10 @@ Monitorar indicadores como investimento, impressões, cliques, conversões e cus
 
 
 ## 📁 Arquivo
-O arquivo `.pbix` está disponível na pasta `Arquivo/`.
+O arquivo `.pbix` está disponível na pasta `Arquivos/`.
 
 ## 📬 Contato
-Caso queira saber mais ou colaborar, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/seu-usuario).
+Caso queira saber mais ou colaborar, entre em contato pelo [LinkedIn](http://www.linkedin.com/in/ana-beatriz-marques-ferreira-42125121a).
+
 
 
